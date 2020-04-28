@@ -8,4 +8,8 @@ And
 
 ## Using custom implemented queue(still in progress)
 
+Also
+
+## I've added my implementation of OpenStruct and ClassOpenStruct
+
 Enjoy!.
