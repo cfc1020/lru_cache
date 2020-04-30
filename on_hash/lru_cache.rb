@@ -1,5 +1,6 @@
 module OnHash
   class LRUCache
+    # Our assimption that the list(ruby store/hash) is ordered!
     attr_reader :max_number
 
     def initialize(max_number)

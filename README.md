@@ -6,10 +6,14 @@ Just an implementation
 
 And
 
-## Using custom implemented queue(still in progress)
+## [WIP] Using custom implemented queue(still in progress)
 
 Also
 
 ## I've added my implementation of OpenStruct and ClassOpenStruct
+
+To got deeply into eigen classes..
+
+## DCI(Data Context Interaction) the pattern many years ago I was inspired by ...
 
 Enjoy!.
